@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>142644B1-1488-47A3-967E-542B8941FFDA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WaitHappy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED46154E-6AA0-48B6-BBAC-A4FBF4E723E5</key>
+		<string>svn://urancompany.com:55555/iphone/WAITHAPPY_REPO/WaitHappy</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WaitHappy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED46154E-6AA0-48B6-BBAC-A4FBF4E723E5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ED46154E-6AA0-48B6-BBAC-A4FBF4E723E5</key>
+		<string>svn://urancompany.com:55555</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://urancompany.com:55555/iphone/WAITHAPPY_REPO/WaitHappy/WaitHappy.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED46154E-6AA0-48B6-BBAC-A4FBF4E723E5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED46154E-6AA0-48B6-BBAC-A4FBF4E723E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WaitHappy</string>
+		</dict>
+	</array>
+</dict>
+</plist>

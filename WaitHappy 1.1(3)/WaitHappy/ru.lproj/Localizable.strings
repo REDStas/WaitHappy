@@ -1,0 +1,86 @@
+/*
+ Localizable.strings
+ WaitHappy
+ 
+ Created by gelgard on 26.01.13.
+ Copyright (c) 2013 dogitalkozak. All rights reserved.
+ */
+/*
+ Localizable.strings
+ WaitHappy
+ 
+ Created by gelgard on 26.01.13.
+ Copyright (c) 2013 dogitalkozak. All rights reserved.
+ */
+
+"top1_lbl_reg"="Welcome Time Traveler!";
+"top2_lbl_reg"="Please register below to add yourself to wait lists and be notified when your table is ready.  All personal data will remain private unless approved below.";
+"email"="EMAIL";
+"first_name"="FIRST NAME";
+"last_name"="LAST NAME";
+
+//"phone1"="PHONE";
+//"phone2"="(WITH AREA CODE)";
+"phone1"="AREA CODE";
+"phone2"="PHONE";
+
+"password"="PASSWORD";
+"confirm_password"="CONFIRM PASSWORD";
+"regist_checkbox"="Allow businesses I \"Favorite\" to \ncontact me about special offers.";
+"placeholder_email"="EMAIL";
+
+//Re-activate account
+"top_lbl"="You may need to re-activate";
+"top1_lbl"="your account if:";
+//"top2_lbl"="• You recently upgraded your phone\n• You used WaitHappy on a different phone previously";
+
+"top2_lbl"="• You have recently upgraded phone.";
+
+
+"placeholder_email_react"="EMAIL";
+"placeholder_phone_react"="PHONE";
+"placeholder_phone_area"="AREA CODE";
+"placeholder_pass_react"="PASSWORD";
+
+
+
+//Forgot password
+"top1_lbl_fog"="Forgot Your Password?";
+"top2_lbl_fog"="No problem! Please enter your email\naddress and we will send your\npassword right away.";
+
+//Home screen
+"red_lbl_1"="Find A Restaurant";
+"red_lbl_2"="My Wait Lists";
+"red_lbl_3"="My Favorites";
+
+"black_lbl_1"="Search by type and location, check \nwait times, and jump on the list!";
+"black_lbl_2"="Check your status and your place \nin line in real time!";
+"black_lbl_3"="View the places that make you the \nhappiest and get on the list faster!";
+
+"sending_msg"="Loading";
+
+//Search
+
+"search_panel_name"="NAME";
+"search_panel_dist"="DISTANCE";
+"search_panel_map"="MAP";
+"search_panel_type"="TYPE";
+"search_btn"="SEARCH";
+
+"section_labels"="Restaurants";
+
+"no_result_top"="Sorry!";
+"no_result_bottom"="There are no #SSS#restaurants within #MMM# mile(s) of your current location.";
+"no_result_bottom_fromtype"="There are no #SSS# restaurants within #MMM# mile(s) of your current location.";
+"no_result_bottom_name"="There are no #SSS# restaurants.";
+
+"no_result_search_name_bottom"="There are no restaurants within 20 miles of your current location. Please use the search field above to search by name.";
+
+
+//Detaile Screen
+"wait_list_labl"="Yeah! You’re on the list!";
+"cur_wait"="Current wait for\na party of";
+"cant_wait"="Or, if you\n can’t wait:";
+"currently_closed"="We’re Currently Closed.";
+"currently_closed_detail"="Please check back soon to get on the wait list.";
+"curWaitMin"=" Min";
